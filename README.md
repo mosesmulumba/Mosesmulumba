@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mosesmulumba
-- 👀 I’m interested in learning both ends.
+- 👀 I’m interested in learning both ends, the frontend and backend.
 - 🌱 I’m currently learning about front end and back end .
 - 💞️ I’m looking to collaborate on DevOps.
 - 📫 How to reach me on  mulumbamoses94@gmail.com
