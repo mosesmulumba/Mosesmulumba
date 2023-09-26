@@ -12,6 +12,7 @@ I'm a front-end developer with a passion for web design and development. I have 
 * Bootstrap
 * Git
 * Visual Basic
+* Wordpress
 
 ## I’m looking forward to learn more challanging programming languages.
 
