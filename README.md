@@ -1,5 +1,4 @@
-Sure, I can help you with that. Here's an example of a README.md for a GitHub repository that showcases your skills and achievements:
-
+ 
 # Hello there, I'm Moses Mulumba 👋
 
 I'm a front-end developer with a passion for web design and development. I have experience in HTML, CSS, ReactJS, Bootstrap, and other front-end technologies. I've also written four articles on web development topics and volunteered at a platform. 
