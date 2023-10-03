@@ -24,7 +24,7 @@ I've written four articles on web development topics:
 * [Article 2](https://medium.com/cranecloud/what-is-git-520ec2221b7b): This is about git - version control system.
 * [Article 3](https://medium.com/cranecloud/mysql-database-62411eef35b): This is about the basic crud oparetions for MySQL database.
 * [Article 4](https://medium.com/cranecloud/things-a-beginner-developer-should-know-about-mysql-database-67a0d97c5b89): More SQL commands you should know about MySQL database.
-
+* [Article 5](https://medium.com/@mulumbamoses94/mastering-productivity-a-comprehensive-guide-to-unleashing-the-power-of-tmux-838472ebd34c): For the Linux die-hards.
 ## Volunteering
 
 I'm currently volunteering at a software platform, where I'm gaining alot of more skills. 
