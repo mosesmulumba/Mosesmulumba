@@ -30,6 +30,6 @@ I'm currently volunteering at a software platform, where I'm gaining alot of mor
 
 ## Contact Me
 
-If you want to get in touch with me, feel free to reach out to me at mulummbamoses94@gmail.com  
+If you want to get in touch with me, feel free to reach out to me at mulumbamoses94@gmail.com  
 
 Thank you for visiting my GitHub profile!
