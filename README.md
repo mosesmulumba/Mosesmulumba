@@ -7,13 +7,15 @@ I'm a front-end developer with a passion for web design and development. I have 
 
 * HTML
 * CSS
-* ReactJS
+* Reactjs
 * Bootstrap
 * Git
 * Visual Basic
-* Wordpress
+* WordPress
+* c++
+* java
 
-## I’m looking forward to learn more challanging programming languages.
+## I’m looking forward to learning more challenging programming languages.
 
 ## Articles
 
