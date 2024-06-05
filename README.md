@@ -14,6 +14,10 @@ I'm a front-end developer with a passion for web design and development. I have 
 * WordPress
 * c++
 * java
+* Python
+* flask
+* MySQL
+* Typescript
 
 ## I’m looking forward to learning more challenging programming languages.
 
