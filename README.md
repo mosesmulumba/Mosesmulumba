@@ -18,7 +18,9 @@ I'm a front-end developer with a passion for web design and development. I have 
 * flask
 * MySQL
 * Typescript
-
+* PHP
+* Laravel
+  
 ## I’m looking forward to learning more challenging programming languages.
 
 ## Articles
